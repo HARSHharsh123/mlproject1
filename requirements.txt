@@ -3,3 +3,6 @@ pandas
 python-dotenv
 pymysql
 scikit-learn
+seaborn
+catboost
+xgboost
